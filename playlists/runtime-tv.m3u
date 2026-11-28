@@ -1,45 +1,45 @@
-#EXTM3U x-generated="2026-11-28 01:09 UTC"
-#EXTINF:-1 tvg-id="3485" tvg-name="3485" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_en_1920x1080.jpg" group-title="Runtime.tv",Runtime
-https://stream.ads.ottera.tv/cl/261128dc52jfhq11is73flsvv0/1920x1080_4128920_5_f.m3u8?i=728_6121
-#EXTINF:-1 tvg-id="4676" tvg-name="4676" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_br_action_bg.jpg" group-title="Runtime.tv",Runtime Ação
-https://stream.ads.ottera.tv/cl/261128dc52jfnhmi4s73dftt8g/1280x720_3071200_0_f.m3u8?i=728_6128
-#EXTINF:-1 tvg-id="6803" tvg-name="6803" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crime_16x9_1.jpg" group-title="Runtime.tv",Runtime Crime
-https://stream.ads.ottera.tv/cl/261128dc52jfj65pls73aof6pg/1280x720_3071200_0_f.m3u8?i=728_4864
-#EXTINF:-1 tvg-id="6807" tvg-name="6807" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_3_0.jpg" group-title="Runtime.tv",Runtime Familia
-https://stream.ads.ottera.tv/cl/261128dc52jfv8rkoc73ctq3ig/1280x720_3071200_0_f.m3u8?i=728_5589
-#EXTINF:-1 tvg-id="12049" tvg-name="12049" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_0.jpg" group-title="Runtime.tv",Moviesphere Brazil
-https://stream.ads.ottera.tv/cl/261128dc52jfssh7es738casmg/1920x1080_6046040_3_f.m3u8?i=728_6178
-#EXTINF:-1 tvg-id="13920" tvg-name="13920" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/psl9-8liWInQ54YdieWyOXhQqJTJ3BSwQN2WKhTA4sc.jpg" group-title="Runtime.tv",C4 en Alerta
-https://stream.ads.ottera.tv/cl/261128dc52jfriui6c739lfgh0/1280x720_3071200_0_f.m3u8?i=728_6404
+#EXTM3U x-generated="2026-11-28 15:06 UTC"
+#EXTINF:-1 tvg-id="20390" tvg-name="20390" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/LNKEeanyFUfndPOSDNDss7F3vyt9gsrHTQVAYw3K8_Q.jpg" group-title="Runtime.tv",Xataka
+https://stream.ads.ottera.tv/cl/261128dc5ertcf7kns73c9j6kg/1280x720_3071200_0_f.m3u8?i=728_14075
 #EXTINF:-1 tvg-id="12972" tvg-name="12972" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/c5320c0e-angermanagement_runtime_channeltitle_1920x1080.jpg" group-title="Runtime.tv",Tratamento de Choque
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-id="3485" tvg-name="3485" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_en_1920x1080.jpg" group-title="Runtime.tv",Runtime
+https://stream.ads.ottera.tv/cl/261128dc5ertlusl1s73ckaoig/1920x1080_4128920_5_f.m3u8?i=728_6121
+#EXTINF:-1 tvg-id="4676" tvg-name="4676" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_br_action_bg.jpg" group-title="Runtime.tv",Runtime Ação
+https://stream.ads.ottera.tv/cl/261128dc5erth5qenc73b7nmh0/1280x720_3071200_0_f.m3u8?i=728_6128
+#EXTINF:-1 tvg-id="12049" tvg-name="12049" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/logo_0.jpg" group-title="Runtime.tv",Moviesphere Brazil
+https://stream.ads.ottera.tv/cl/261128dc5ertkqohac73blh520/1920x1080_6046040_3_f.m3u8?i=728_6178
+#EXTINF:-1 tvg-id="6803" tvg-name="6803" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_crime_16x9_1.jpg" group-title="Runtime.tv",Runtime Crime
+https://stream.ads.ottera.tv/cl/261128dc5ertp908gc73brjbfg/1280x720_3071200_0_f.m3u8?i=728_4864
+#EXTINF:-1 tvg-id="6807" tvg-name="6807" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_3_0.jpg" group-title="Runtime.tv",Runtime Familia
+https://stream.ads.ottera.tv/cl/261128dc5ertt2cdoc73alqt50/1280x720_3071200_0_f.m3u8?i=728_5589
+#EXTINF:-1 tvg-id="13920" tvg-name="13920" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/psl9-8liWInQ54YdieWyOXhQqJTJ3BSwQN2WKhTA4sc.jpg" group-title="Runtime.tv",C4 en Alerta
+https://stream.ads.ottera.tv/cl/261128dc5erttl2rms73ap2bag/1280x720_3071200_0_f.m3u8?i=728_6404
 #EXTINF:-1 tvg-id="15612" tvg-name="15612" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/Hnl6MS4-zTgHgX87Dr_Dbv7Qdjoq2dYBqxMxTvgKIko.jpg" group-title="Runtime.tv",Nitro
 https://api-ott-azteca-azt.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=823&language=pt-br&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=html5
-#EXTINF:-1 tvg-id="20390" tvg-name="20390" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/LNKEeanyFUfndPOSDNDss7F3vyt9gsrHTQVAYw3K8_Q.jpg" group-title="Runtime.tv",Xataka
-https://stream.ads.ottera.tv/cl/261128dc52jg1908gc73bn9050/1280x720_3071200_0_f.m3u8?i=728_14075
-#EXTINF:-1 tvg-id="3270" tvg-name="3270" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_ush_1920x1080_1.jpg" group-title="Runtime.tv",Runtime Español
-https://stream.ads.ottera.tv/cl/261128dc52jg0ob79c73d4sgl0/1280x720_3071200_0_f.m3u8?i=728_2649
 #EXTINF:-1 tvg-id="6815" tvg-name="6815" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9.jpg" group-title="Runtime.tv",Runtime Familia
-https://stream.ads.ottera.tv/cl/261128dc52jg8ipaqc73fehi1g/1280x720_3071200_0_f.m3u8?i=728_6118
-#EXTINF:-1 tvg-id="11808" tvg-name="11808" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/uLDVczoJETxKCu1UvzcUeCk5yNN8c-Dm2UuMf7ybPQw.jpg" group-title="Runtime.tv",Toon Goggles em português
-https://stream.ads.ottera.tv/cl/261128dc52jgcceqmc73bv0olg/1280x720_3071200_0_f.m3u8?i=728_5442
+https://stream.ads.ottera.tv/cl/261128dc5erts7d9rc73bsjvig/1280x720_3071200_0_f.m3u8?i=728_6118
 #EXTINF:-1 tvg-id="13924" tvg-name="13924" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/QeC3XCHvkfJ5r1cyhW_5wyQ0Hs28MqxgN0gK712Mrug.jpg" group-title="Runtime.tv",Milenio Televisión
-https://stream.ads.ottera.tv/cl/261128dc52jg9ugn2s73d6vrdg/1920x1080_4215200_4_f.m3u8?i=728_6403
+https://stream.ads.ottera.tv/cl/261128dc5ertsqohac73blh57g/1920x1080_4215200_4_f.m3u8?i=728_6403
 #EXTINF:-1 tvg-id="16048" tvg-name="16048" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_masterchefbrasil_logo_1920x1080_-_suraj_s.jpg" group-title="Runtime.tv",Masterchef Brazil
-https://tinyurl.com/2b22vtmq
+https://tinyurl.com/22b2bsu7
+#EXTINF:-1 tvg-id="3270" tvg-name="3270" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_ush_1920x1080_1.jpg" group-title="Runtime.tv",Runtime Español
+https://stream.ads.ottera.tv/cl/261128dc5eru4sh7es738ggndg/1280x720_3071200_0_f.m3u8?i=728_2649
+#EXTINF:-1 tvg-id="11808" tvg-name="11808" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/uLDVczoJETxKCu1UvzcUeCk5yNN8c-Dm2UuMf7ybPQw.jpg" group-title="Runtime.tv",Toon Goggles em português
+https://stream.ads.ottera.tv/cl/261128dc5eru47d9rc73bsjvo0/1280x720_3071200_0_f.m3u8?i=728_5442
 #EXTINF:-1 tvg-id="4678" tvg-name="4678" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/br_comedy_bg.jpg" group-title="Runtime.tv",Runtime Comédia
-https://stream.ads.ottera.tv/cl/261128dc52jgjrvkbs73b7r66g/1280x720_3071200_0_f.m3u8?i=728_2553
+https://stream.ads.ottera.tv/cl/261128dc5eru15qenc73b7nmrg/1280x720_3071200_0_f.m3u8?i=728_2553
 #EXTINF:-1 tvg-id="6801" tvg-name="6801" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_cinespanto_16x9_1.jpg" group-title="Runtime.tv",CinEspanto
-https://stream.ads.ottera.tv/cl/261128dc52jgjiui6c739lfh20/1280x720_3071200_0_f.m3u8?i=728_4865
+https://stream.ads.ottera.tv/cl/261128dc5eru26p2ls73efusv0/1280x720_3071200_0_f.m3u8?i=728_4865
 #EXTINF:-1 tvg-id="6805" tvg-name="6805" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9_2.jpg" group-title="Runtime.tv",Runtime Romance
-https://stream.ads.ottera.tv/cl/261128dc52jgkf7kns73c5djhg/1280x720_3071200_0_f.m3u8?i=728_6133
-#EXTINF:-1 tvg-id="11709" tvg-name="11709" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/record_news_thumbnail.png" group-title="Runtime.tv",Record News
-https://stream.ads.ottera.tv/cl/261128dc52jgklpcks738unpug/1280x720_3071200_0_f.m3u8?i=728_5431
+https://stream.ads.ottera.tv/cl/261128dc5eru8l3bss739c0p30/1280x720_3071200_0_f.m3u8?i=728_6133
 #EXTINF:-1 tvg-id="6582" tvg-name="6582" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg" group-title="Runtime.tv",Runtime Series
-https://stream.ads.ottera.tv/cl/261128dc52jgrrvkbs73b7r6bg/1280x720_3071200_0_f.m3u8?i=728_6132
-#EXTINF:-1 tvg-id="2968" tvg-name="2968" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_br_1920x1080_0.jpg" group-title="Runtime.tv",Runtime
-https://stream.ads.ottera.tv/cl/261128dc52jgu166cs73eekvv0/1280x720_3071200_0_f.m3u8?i=728_2153
-#EXTINF:-1 tvg-id="13922" tvg-name="13922" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/iLulYrBX1GWzxXXlZ4Mr1e5qi8qXgkmd0FqEK01LHdo.jpg" group-title="Runtime.tv",Canal 6 CDMX
-https://stream.ads.ottera.tv/cl/261128dc52jgsf7kns73c5djpg/1920x1080_4215200_4_f.m3u8?i=728_6405
+https://stream.ads.ottera.tv/cl/261128dc5eru82ohbs73f1t24g/1280x720_3071200_0_f.m3u8?i=728_6132
+#EXTINF:-1 tvg-id="11709" tvg-name="11709" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/record_news_thumbnail.png" group-title="Runtime.tv",Record News
+https://stream.ads.ottera.tv/cl/261128dc5erubgimgs73fev9bg/1280x720_3071200_0_f.m3u8?i=728_5431
 #EXTINF:-1 tvg-id="14530" tvg-name="14530" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/tv_zyn_thumbnail.jpg" group-title="Runtime.tv",TV ZYN
-https://tinyurl.com/258y3ovj
+https://tinyurl.com/22hung3w
+#EXTINF:-1 tvg-id="2968" tvg-name="2968" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_br_1920x1080_0.jpg" group-title="Runtime.tv",Runtime
+https://stream.ads.ottera.tv/cl/261128dc5eru9q11is73fq5u20/1280x720_3071200_0_f.m3u8?i=728_2153
+#EXTINF:-1 tvg-id="13922" tvg-name="13922" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/iLulYrBX1GWzxXXlZ4Mr1e5qi8qXgkmd0FqEK01LHdo.jpg" group-title="Runtime.tv",Canal 6 CDMX
+https://stream.ads.ottera.tv/cl/261128dc5eru88toac73dd7f1g/1920x1080_4215200_4_f.m3u8?i=728_6405
